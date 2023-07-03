@@ -57,111 +57,36 @@ Create a new sheet with 8 columns:
 
 In the Goal column, create 12 rows with the following headers:
 
-Less than 1000
+- Less than 1000
+- 1000 to 4999
+- 5000 to 9999
+- 10000 to 14999
+- 15000 to 19999
+- 20000 to 24999
+- 25000 to 29999
+- 30000 to 34999
+- 35000 to 39999
+- 40000 to 44999
+- 45000 to 49999
+- Greater than or equal to 50000
 
-1000 to 4999
+Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with these data points.
 
-5000 to 9999
+- Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
 
-10000 to 14999
+- Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-15000 to 19999
+## Statistical Analysis
 
-20000 to 24999
+Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns. Use Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
 
-25000 to 29999
-
-30000 to 34999
-
-35000 to 39999
-
-40000 to 44999
-
-45000 to 49999
-
-Greater than or equal to 50000
-
-A table and corresponding graph showing the percentage of projects that are successful, failed, and canceled based on their crowdfunding goal.
-
-Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points.
-
-Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
-
-Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
-
-Statistical Analysis
-Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
-
-For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
-
-Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
-
-A table containing a column for the number of backers of successful campaigns and a column for unsuccessful campaigns.
-
-Use Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
-
-The mean number of backers
-
-The median number of backers
-
-The minimum number of backers
-
-The maximum number of backers
-
-The variance of the number of backers
-
-The standard deviation of the number of backers
+- The mean number of backers
+- The median number of backers
+- The minimum number of backers
+- The maximum number of backers
+- The variance of the number of backers
+- The standard deviation of the number of backers
 
 Use your data to determine whether the mean or the median better summarizes the data.
 
 Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
-
-Requirements
-Conditional Formatting (10 points)
-Conditional formatting is applied appropriately to the outcome column (5 points)
-
-Conditional formatting is applied appropriately to the percent funded column (5 points)
-
-Column Creation (10 points)
-Six new columns were correctly created for:
-
-percent funded
-
-average donation
-
-category
-
-sub-category
-
-Date Created Conversion
-
-Date Ended Conversion
-
-Pivot Tables and Stacked Column Charts (15 points)
-Correctly created a pivot table that counts how many campaigns were "successful," "failed," "canceled," or are currently "live" per category (7.5 points)
-
-Correctly created a stacked column pivot chart that can be filtered by country (7.5 points)
-
-Pivot Tables and Line Graphs (15 points)
-Correctly created a pivot table with a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years (7.5 points)
-
-Correctly created apivot chart line graph (7.5 points)
-
-Written Report (20 points)
-Presents a cohesive written analysis that:
-
-Draws three conclusions from the data (10 points)
-
-States limitations of the dataset and suggestions for additional tables of graph (10 points)
-
-Crowfunding Goal Analysis (10 points)
-Computed calculations of percentages for projects that were successful, failed, or were canceled per goal range (5 points)
-
-Created a line chart showing the relationship between the goal’s amount and its chances at success, failure, or cancellation (5 points)
-
-Statistical Analysis (20 points)
-Computed calculations of the mean, median, min, max, variance, and stdev using Excel formulas (15 points)
-
-A brief and compelling justification of whether the mean or median better summarizes the data (5 points)
-
-Grading
