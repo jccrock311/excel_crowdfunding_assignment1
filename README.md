@@ -42,7 +42,7 @@ Create a report in Microsoft Word, and answer the following questions:
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-Crowfunding Goal Analysis
+# Crowfunding Goal Analysis
 Create a new sheet with 8 columns:
 
 Goal
