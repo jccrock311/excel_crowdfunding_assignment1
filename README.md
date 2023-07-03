@@ -1,21 +1,13 @@
 # Assignment #1 for the SMU Data Analytics Boot Camp (2023)
 
-# Background
+## Background
 
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
 
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-# Before You Begin
-Create a new space for this project called excel-challenge in either Dropbox or Google Drive. Do not add this Challenge to an existing repository. Store your Excel workbooks here in this new space, and create a sharable link for submission.
-
-# Files
-Download the following files to help you get started:
-
-Module 1 Challenge filesLinks to an external site.
-
-Instructions
-A table contains a database of 1,000 sample crowdfunding projects.
+### Instructions
+A table contains a database of 1,000 sample crowdfunding projects. [Project link here: ](https://static.bc-edx.com/data/dl-1-2/m1/lms/starter/Starter_Code.zip)
 
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
 
