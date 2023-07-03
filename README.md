@@ -6,7 +6,7 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-### Instructions
+## Instructions
 
 Project link [here](https://static.bc-edx.com/data/dl-1-2/m1/lms/starter/Starter_Code.zip).
 
