@@ -42,24 +42,18 @@ Create a report in Microsoft Word, and answer the following questions:
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-# Crowfunding Goal Analysis
+## Crowfunding Goal Analysis
+
 Create a new sheet with 8 columns:
 
-Goal
-
-Number Successful
-
-Number Failed
-
-Number Canceled
-
-Total Projects
-
-Percentage Successful
-
-Percentage Failed
-
-Percentage Canceled
+- `Goal`
+- `Number Successful`
+- `Number Failed`
+- `Number Canceled`
+- `Total Projects`
+- `Percentage Successful`
+- `Percentage Failed`
+- `Percentage Canceled`
 
 In the Goal column, create 12 rows with the following headers:
 
